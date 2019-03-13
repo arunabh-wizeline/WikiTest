@@ -46,8 +46,10 @@ Follow these steps to create the source documentation for the wiki:
 4. Create your different documents for the wiki in the directory.
 5. Add the overview and links to other documents in the `Home.md` document in the following format:
 
-- [Document One](./Document-one)
-- [Document Two](./Document-two)
+```
+  - [Document One](./Document-one)
+  - [Document Two](./Document-two)
+```
 
 ## Publish on github
 
